@@ -2,7 +2,7 @@
 namespace App;
 require 'vendor/autoload.php';
 
-use \App\Services\ContactsService;
+use App\Services\ContactsService;
 use App\Services\GeoIpService;
 use \Twig\Loader\FilesystemLoader;
 use \Twig\Environment;
